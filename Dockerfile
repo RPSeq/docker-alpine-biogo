@@ -1,3 +1,4 @@
+# A minimal golang image
 FROM golang:alpine
 
 # ryan.smith.p@gmail.com
